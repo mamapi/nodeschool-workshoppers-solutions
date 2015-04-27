@@ -1,0 +1,17 @@
+{
+  "name": "nodechool-workshoppers-solutions",
+  "author": "Grzegorz Górczyński",
+  "description": "My nodeschool.io workshoppers solutions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GregGorczynski/nodeschool-workshoppers-solutions.git"
+  },
+  "keywords": [
+    "nodeschool.io",
+    "solutions"
+  ],
+  "dependencies": {
+    "through2": "~0.6.5",
+    "split": "~0.3.3"
+  }
+}
