@@ -13,6 +13,7 @@
   "dependencies": {
     "through2": "~0.6.5",
     "split": "~0.3.3",
-    "concat-stream": "~1.4.8"
+    "concat-stream": "~1.4.8",
+    "websocket-stream": "~1.5.0"
   }
 }
