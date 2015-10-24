@@ -4,7 +4,7 @@
   "description": "My nodeschool.io workshoppers solutions",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GregGorczynski/nodeschool-workshoppers-solutions.git"
+    "url": "https://github.com/ggorczynski/nodeschool-workshoppers-solutions.git"
   },
   "keywords": [
     "nodeschool.io",
@@ -15,6 +15,11 @@
     "split": "~0.3.3",
     "concat-stream": "~1.4.8",
     "websocket-stream": "~1.5.0",
-    "trumpet": "~1.7.1"
+    "trumpet": "~1.7.1",
+    "express": "~3.0.6",
+    "jade": "~1.9.2",
+    "crypto": "0.0.3",
+    "body-parser": "~1.13.1",
+    "q": "~1.4.1"
   }
 }
